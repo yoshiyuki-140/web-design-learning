@@ -108,4 +108,11 @@ img {
 
 /* END */
 
+/* GOOGLE FONTS SETTINGS */
+/* START */
+.site-menu ul a {
+    font-family: 'Montserrat', sans-serif;
+}
+/* END */
+
 /* END STYLES SETTING */
