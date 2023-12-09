@@ -1,0 +1,39 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.profile {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #f2f2f2;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+.photo img {
+  width: 100%;
+  height: auto;
+  border-radius: 50%;
+}
+
+.info {
+  margin-top: 20px;
+}
+
+.info h1,
+.info p {
+  margin: 0;
+  padding: 0;
+}
+
+.about-me {
+  margin-top: 20px;
+}
+
+.about-me h2 {
+  margin: 0;
+}
+
+.about-me p {
+  text-indent: 20px;
+}
